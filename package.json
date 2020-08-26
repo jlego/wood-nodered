@@ -1,0 +1,25 @@
+{
+  "name": "wood-nodered",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jlego@github.com/jlego/wood-nodered.git"
+  },
+  "keywords": [
+    "wood-nodered"
+  ],
+  "author": "jlego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlego/wood-nodered/issues"
+  },
+  "homepage": "https://github.com/jlego/wood-nodered#readme",
+  "dependencies": {
+    "node-red": "^1.1.3"
+  }
+}
